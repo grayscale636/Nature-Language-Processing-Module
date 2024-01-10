@@ -1,0 +1,3 @@
+__label__text1 Natural language processing (NLP) is a subfield of computer science, artificial intelligence, and linguistics that deals with the interactions between computers and human languages.
+__label__text2 Machine learning is a branch of artificial intelligence that focuses on creating systems that can learn from and make decisions based on data.
+__label__text3 Deep learning is a subset of machine learning that uses multi-layered artificial neural networks to deliver state-of-the-art accuracy in tasks such as object detection, speech recognition, language translation, and others.
